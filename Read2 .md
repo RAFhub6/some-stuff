@@ -61,4 +61,4 @@ some windows iso files (https://stuff.collabvmtails.repl.co)
     
 <HTML>
   <a class="gb_4 gb_5 gb_ae gb_4c" href="https://accounts.google.com/ServiceLogin?hl=en&amp;passive=true&amp;continue=https://www.google.com/&amp;ec=GAZAmgQ" target="_top">Sign in</a>
-  <a class="gb_4 gb_5 gb_ae gb_4c" href="https://drive.google.com/file/d/1p3JltWVKESIlK3s6NbzaBxN_AroPNy3n/view?usp=sharing" target="_top">Win10</a>![](http://https://drive.google.com/file/d/1cbyhVDTR7I5dnnOgee4qa0V_fAvQuZWN/view?usp=sharing)
+  <a class="gb_4 gb_5 gb_ae gb_4c" href="https://drive.google.com/file/d/1p3JltWVKESIlK3s6NbzaBxN_AroPNy3n/view?usp=sharing" target="_top">Win10</a>![](https://drive.google.com/file/d/1cbyhVDTR7I5dnnOgee4qa0V_fAvQuZWN/view?usp=sharing)
