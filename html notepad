@@ -1,0 +1,73 @@
+# also on htmlnotepad.puremintwater.repl.co
+<HTML>
+    <HEAD>
+
+       <SCRIPT type="text/javascript" src="vkboards.js"></SCRIPT>
+
+       
+
+    </HEAD>
+ 
+<HTML>
+    <HEAD>
+
+        <SCRIPT type="text/javascript" src="vkboard.js"></SCRIPT>
+
+        <SCRIPT>
+<HTML>
+    <HEAD>
+
+        <SCRIPT type="text/javascript" src="edit_full.html"></SCRIPT>
+
+        <SCRIPT>
+
+        
+        function keyb_callback(char)
+        {
+            
+
+            
+            var text = notepad
+                document.getElementById("textfield"), val = text.value;
+
+            switch(ch)
+            {
+                case "BackSpace":
+                var min=(val.charCodeAt(val.length - 1) == 10) ? 2 : 1;
+                text.value = val.substr(0, val.length - min);
+                break;
+
+               case "Enter":
+                   text.value += "\n";
+                   break;
+
+               default:
+                   text.value += ch;
+            }
+        }
+
+        </SCRIPT>
+
+    </HEAD>
+    ...
+<HTML>
+
+    ...
+
+    <BODY>
+
+        ...
+
+        <TEXTAREA id="textfield" rows="10" cols="50"></TEXTAREA>
+
+        <DIV id="keyboard"></DIV>
+
+    </BODY>
+
+</HTML>
+<BODY onload="new VKeyboard("keyboard", keyb_callback);">
+
+
+<input type="submit">
+
+ 
