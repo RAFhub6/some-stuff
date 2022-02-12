@@ -1,1 +1,1 @@
-echo bruh
+echo 
